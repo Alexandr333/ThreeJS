@@ -1,0 +1,14 @@
+.mnp--app{
+    position: relative;
+}
+
+.mnp--app__tools{
+    position: absolute;
+    z-index: 100000000;
+}
+
+.mnp--app__visualizer{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
